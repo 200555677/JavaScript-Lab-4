@@ -1,0 +1,37 @@
+{
+    "companyName": "I-Scream Company Inc.",
+    "headOffice": "North Pole",
+    "established": 2024,
+    "active": true,
+    "topFlavors": [{
+        "name": "Chocolate Mint",
+        "calories": 200,
+        "type": "ice-cream",
+        "ingredients": ["Chocolate Syrup", "Peppermint Sprinkles", "Vanilla Base"],
+        "image": "https://200555677.github.io/JavaS-lab4/JavaS%20lab4/images/chocolate-mint.svg"
+    }, {
+        "name": "Peach Mango",
+        "calories": 250,
+        "type": "milkshake-type ice-cream",
+        "ingredients": ["Peach Syrup", "Mango Chunks", "Vanilla Base"],
+        "image": "https://200555677.github.io/JavaS-lab4/JavaS%20lab4/images/peach-mango.svg"
+    }, {
+        "name": "Strawberry Sprinkle",
+        "calories": 300,
+        "type": "ice-cream",
+        "ingredients": ["Strawberry Syrup", "Sprinkles", "Chocolate Base"],
+        "image": "https://200555677.github.io/JavaS-lab4/JavaS%20lab4/images/strawberry-sprinkle.svg"
+    }, {
+        "name": "Caramel Candy ",
+        "calories": 250,
+        "type": "milkshake-type ice-cream",
+        "ingredients": ["Caramel Syrup", "chocolate chunks", "Vanilla Base"],
+        "image": "https://200555677.github.io/JavaS-lab4/JavaS%20lab4/images/ice-cream-xtra1.svg"
+    }, {
+        "name": "Roasted Hazellnut ",
+        "calories": 300,
+        "type": "ice-cream",
+        "ingredients": ["Hazellnut Syrup", "Hazellnut chunks", "Chocolate Base"],
+        "image": "https://200555677.github.io/JavaS-lab4/JavaS%20lab4/images/ice-cream-xtra2.svg"
+    }]
+}
